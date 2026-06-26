@@ -1,0 +1,6 @@
+{
+  "name": "Weather Report",
+  "description": "A real-time responsive Weather Report application featuring search, dynamic visual themes, detailed hourly forecasts, and 7-day outlooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
